@@ -190,6 +190,8 @@ plt.show()
 ![Screenshot 2024-03-19 201712](https://github.com/Raja8334/Implementation-of-filter/assets/120719634/74398e81-3b06-427d-afaa-fc3f887f21b5)
 
 #### iv) Using Median Filter
+![Screenshot 2024-03-19 201740](https://github.com/Raja8334/Implementation-of-filter/assets/120719634/8b140a9a-2048-4946-a96a-cd6549ae6b8f)
+
 
 ### 2. Sharpening Filters
 
